@@ -1,6 +1,6 @@
 # Cuantificación de patrones locomotores del pez cebra usando descriptores de movimiento en video.
 
-Autor: Edgar Andrés Montenegro Martínez.
+**Autor**: Edgar Andrés Montenegro Martínez.
 
 ![Texto alternativo](img/BannerFinalZebrafish.png)
 
@@ -14,9 +14,10 @@ cafeina (control, estrés0, estrés10, estrés100), todos estos videos constan d
 
 ## Algoritmos utilizados:
 
-1. Lenet-5.
+1. LENET-5.
 2. VGG-16.
 3. VGG-19.
 4. Arquitecturas de 4, 6, 8 convolucionales.
+5. Trayectorias de Wang (https://hal.inria.fr/inria-00583818/document)
 
  
