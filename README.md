@@ -2,7 +2,7 @@
 
 Autor: Edgar Andrés Montenegro Martínez.
 
-![Texto alternativo](BannerFinalZebrafish.png)
+![Texto alternativo](img/BannerFinalZebrafish.png)
 
 ## Objetivo
 El objetivo de este proyecto fue la caracterización y clasificación de la conducta social del pez cebra en un experimento del comportamiento social con 
