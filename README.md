@@ -1,8 +1,8 @@
 # Cuantificación de patrones locomotores del pez cebra usando descriptores de movimiento en video.
 
-Autor: Edgar Andrés Montenegro Martínez.
+**Autor**: Edgar Andrés Montenegro Martínez.
 
-![Texto alternativo](BannerFinalZebrafish.png)
+![Texto alternativo](img/BannerFinalZebrafish.png)
 
 ## Objetivo
 El objetivo de este proyecto fue la caracterización y clasificación de la conducta social del pez cebra en un experimento del comportamiento social con 
@@ -14,9 +14,15 @@ cafeina (control, estrés0, estrés10, estrés100), todos estos videos constan d
 
 ## Algoritmos utilizados:
 
-1. Lenet-5.
+1. LENET-5.
 2. VGG-16.
 3. VGG-19.
 4. Arquitecturas de 4, 6, 8 convolucionales.
+5. Trayectorias de Wang (https://hal.inria.fr/inria-00583818/document)
 
+## Enlaces de interes:
+
+1. [Codigo](https://github.com/EdgarAndresMontenegro/Zebrafish_Behaver_Net/tree/master/Codigo)
+2. [Video](https://github.com/EdgarAndresMontenegro/Zebrafish_Behaver_Net/blob/master/Video_Descripcion.mp4)
+3. [Poster](https://github.com/EdgarAndresMontenegro/Zebrafish_Behaver_Net/blob/master/PosterSystemsFestZebrafish.pdf)
  
