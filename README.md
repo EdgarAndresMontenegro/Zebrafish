@@ -24,6 +24,5 @@ cafeina (control, estrés0, estrés10, estrés100), todos estos videos constan d
 
 1. [Codigo](https://github.com/EdgarAndresMontenegro/Zebrafish_Behaver_Net/tree/master/Codigo)
 2. [Video](https://github.com/EdgarAndresMontenegro/Zebrafish_Behaver_Net/blob/master/Video_Descripcion.mp4)
-3. [Poster](https://github.com/EdgarAndresMontenegro/Zebrafish_Behaver_Net/blob/master/PosterSystemsFestZebrafish.pdf)
-4. [DataSet](https://github.com/EdgarAndresMontenegro/Zebrafish_Behaver_Net/tree/master/zebrafish)
-5. [Presentacion](https://github.com/EdgarAndresMontenegro/Zebrafish_Behaver_Net/blob/master/ZebrafishPresentation_IA.pdf)
+3. [DataSet](https://github.com/EdgarAndresMontenegro/Zebrafish_Behaver_Net/tree/master/zebrafish)
+4. [Presentacion](https://github.com/EdgarAndresMontenegro/Zebrafish_Behaver_Net/blob/master/ZebrafishPresentation_IA.pdf)
