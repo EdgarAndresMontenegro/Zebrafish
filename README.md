@@ -1,6 +1,6 @@
 # Cuantificación de patrones locomotores del pez cebra usando descriptores de movimiento en video.
 
-**Autor**: Edgar Andrés Montenegro Martínez.
+**Autores**: Edgar Andrés Montenegro Martínez, Juan Esteban Franco Restrepo, Fabio Martinez Carrillo.
 
 ![Texto alternativo](img/BannerFinalZebrafish.png)
 
